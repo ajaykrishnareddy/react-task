@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "category": "Sporting Goods",
+      "price": "$49.19",
+      "stocked": true,
+      "name": "Foot Ball"
+    },
+    {
+      "category": "Sporting Goods",
+      "price": "$9.19",
+      "stocked": true,
+      "name": "Base Ball"
+    },
+    {
+      "category": "Sporting Goods",
+      "price": "$8.19",
+      "stocked": false,
+      "name": "Basket Ball"
+    },
+    {
+      "category": "Electronics",
+      "price": "$30.19",
+      "stocked": true,
+      "name": "iPad Touch"
+    },
+    {
+      "category": "Electronics",
+      "price": "$12.19",
+      "stocked": true,
+      "name": "IPhone"
+    },
+    {
+      "category": "Electronics",
+      "price": "$12.19",
+      "stocked": false,
+      "name": "Nexus"
+    }
+  ]
+}
